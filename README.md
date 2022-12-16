@@ -24,6 +24,9 @@ As a reminder, here are the instructions:
 
 ## Solution 2
 
+//make a function that returns true if a word is a palindrome.
+That means if the first letter is the same as last letter, and the second letter is the smae as the second to last letter, etc. until we reach middle, return true.
+
 ### Video Walkthrough
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X7OwxO7zuzU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
